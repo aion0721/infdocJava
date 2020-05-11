@@ -32,3 +32,6 @@ build/
 
 ### H2 ###
 testdb.mv.db
+
+### CodeGru ###
+codeguru-profiler-java-agent-standalone-0.3.0.jar
